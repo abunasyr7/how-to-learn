@@ -51,10 +51,6 @@ legend {
 }
 
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
-.header__square-pic {
-  height: 568px;
-  width: 568px;
-}
 
 .logo__place_header {
   position: absolute;
@@ -246,7 +242,7 @@ legend {
 .feynman__link {
   position: absolute;
   right: 48px;
-  top: 50%
+  top: 50%;
 }
 .link-font {
   text-decoration: none;
@@ -278,10 +274,6 @@ legend {
   width: 60%;
   margin: 0 auto;
   text-align: center;
-}
-
-.table__cell_theme_dark {
-  color: white;
 }
 
 .kaufman__section_title_font {

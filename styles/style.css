@@ -22,10 +22,6 @@
   /* выше установили ограничения для секции */
   position: relative;
   align-items: center;
-  background-image: url(../images/header-image.png);
-  background-repeat: no-repeat;
-  background-size: 568px 568px;
-  background-position: right 0px bottom 0px;
 }
 
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */

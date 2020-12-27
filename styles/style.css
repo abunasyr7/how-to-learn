@@ -166,14 +166,9 @@
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
+  padding-top: 20px;
 }
 
-.table__text:nth-child(3){
-  padding-top: 20px;
-}
-.table__text:nth-child(7){
-  padding-top: 20px;
-}
 .feynman {
   position: relative;
   height: 790px;
@@ -200,6 +195,7 @@
 .feynman__subtitle {
   display: flex;
   justify-content: center;
+  margin: 0px;
   padding-top: 70px;
   line-height: 51px;
   font-size: 36px;
@@ -224,7 +220,7 @@
   overflow: hidden;
   position: relative;
 }
-.kaufman-triangle {
+.kaufman__triangle {
   position: absolute;
   top: 0px;
   right: 0px;

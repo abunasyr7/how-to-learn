@@ -3,11 +3,11 @@
   top: 0px;
   right: -210px;
   height: 877px;
-  width: 700px;
+  width: 877px;
   margin: 0px;
   background-image: url(../../../images/kaufman-triangle.svg);
-  background-size: 900px 900px;
+  background-size: 877px 877px;
   background-position: top 0px right -0px;
   background-repeat: no-repeat;
-  z-index: 0;
+  z-index: 1;
 }
